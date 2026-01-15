@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3PfvY8nyT6/giphy.gif" width="100%" height="auto" alt="coding animation"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJraTE5emFubDR3MWU1bDA0bmI5aDlvazIyM3VlNnZndmcya2tiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lk4w4scH6TLQSsLND3/giphy.gif" width="100%" height="auto" alt="coding animation"/>
   
   <br/>
   
@@ -25,35 +25,31 @@ I am a Game Developer and Applied Computer Scientist based in **Thailand 🇹�
 
 ---
 
-### ⚔️ The Arsenal (Tech Stack)
+### ⚔️ Tech Stack
 
 <div align="center">
 
+<p><b>🛡️ Primary Engine 🛡️</b></p>
+  <a href="https://godotengine.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="90" height="90" alt="Godot Engine"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+</div>
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
-</div>
-
----
-
-### 📊 Power Level (Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adadesions&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadesions&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adadesions&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 ---
